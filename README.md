@@ -20,7 +20,7 @@
 | 6 | Ekstrak File | Mengekstrak file terkompres dengan perintah **gunzip** |
 | 7 | Kompres Folder | Mengompres folder dengan perintah **tar -czf** |
 | 8 | Ekstrak Folder | Mengekstrak folder dengan perintah **tar -xf** |
-# SCREENSHOT PROGRAM
-![Aplikasi Gue](GrafikaKomputer_p5js_1)
+# PRAKTIK
+![Aplikasi Saya](GrafikaKomputer_p5js_1)
 
-| VArchiver - Grafika Komputer |
+| Grafika Komputer |
