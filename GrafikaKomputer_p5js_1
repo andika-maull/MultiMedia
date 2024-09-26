@@ -1,0 +1,25 @@
+function setup() {
+  createCanvas(640, 480);
+}
+
+function draw() {
+  background(255, 255, 224);
+
+  // Judul tampilan
+  textSize(24);
+  fill(0);
+  text("Tampilan Sederhana", 120, 100);
+
+  // Gambar lingkaran
+  fill(124, 252, 2);
+  ellipse(150, 200, 100, 100);
+
+  // Gambar persegi
+  fill(0, 255, 254);
+  rect(250, 150, 100, 100);
+
+  // Gambar garis
+  stroke(50);
+  strokeWeight(3);
+  line(80, 300, 385, 300);
+}
