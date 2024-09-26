@@ -10,5 +10,9 @@
 
 # PRAKTIK
 [Source Code](GrafikaKomputer_p5js_1)
+# SCREENSHOT PROGRAM
+![image](https://github.com/user-attachments/assets/d59230c3-5dff-4b0e-bee4-918074d876bc)
+)
+
 
 | Grafika Komputer |
