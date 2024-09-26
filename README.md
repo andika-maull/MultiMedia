@@ -6,6 +6,7 @@
 | Nama Lengkap | *Andika Maulana R.U* |
 | Kelas | TI-5B |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
+| Mata Kuliah | *Grafika Komputer*
 
 # SISTEM OPERASI
 ### Fitur VArchiver
@@ -21,6 +22,6 @@
 | 7 | Kompres Folder | Mengompres folder dengan perintah **tar -czf** |
 | 8 | Ekstrak Folder | Mengekstrak folder dengan perintah **tar -xf** |
 # PRAKTIK
-![Aplikasi Saya](GrafikaKomputer_p5js_1)
+[Source Code](GrafikaKomputer_p5js_1)
 
 | Grafika Komputer |
