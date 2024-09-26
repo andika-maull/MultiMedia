@@ -8,7 +8,6 @@
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 | Mata Kuliah | *MultiMedia*
 
-# SISTEM OPERASI
 ### Fitur VArchiver
 |  |  |  |
 |--|--|--|
