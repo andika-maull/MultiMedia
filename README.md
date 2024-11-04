@@ -9,7 +9,8 @@
 | Mata Kuliah | *MultiMedia*
 
 # SCREENSHOT PROGRAM
-![image](<img width="403" alt="image" src="https://github.com/user-attachments/assets/4ec865eb-2a50-46de-bb90-8ccd124d1f2d">
+![image](<<img width="403" alt="image" src="https://github.com/user-attachments/assets/b84da53e-9037-44f3-971f-671078b927fb">
+>
 )
 
 
